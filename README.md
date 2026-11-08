@@ -6,6 +6,7 @@ relying on a single sorting strategy, this implementation ships **four**
 interchangeable algorithms — three fixed-complexity strategies plus an
 adaptive one that picks its approach based on how "disordered" the input is.
 
+
 ## Overview
 
 `push_swap` receives a list of integers as command-line arguments and loads
